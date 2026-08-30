@@ -1,0 +1,18 @@
+{
+    "name": "merlin",
+    "description": "miracle magician",
+    "authors": [
+        {
+            "name": "cellfish",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {},
+    "rawColors": {},
+    "background": {
+        "url": "https://raw.githubusercontent.com/cell-fish/Minecraft-theme/main/1788065374788.jpg",
+        "blur": 0.0,
+        "alpha": 0.15
+    }
+}
